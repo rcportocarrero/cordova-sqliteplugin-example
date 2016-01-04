@@ -8,8 +8,6 @@
         FASD
     </author>
     <content src="index.html" />
-    <plugins>
-		<plugin name="com.brodysoft.sqliteplugin" spec="1.0.0" source="pgb" />
-	</plugins>
+    <plugin name="com.brodysoft.sqliteplugin" spec="1.0.0" source="pgb" /> 
     <access origin="*" />
 </widget>
