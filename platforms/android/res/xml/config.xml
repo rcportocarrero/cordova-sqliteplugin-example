@@ -12,5 +12,6 @@
         FASD
     </author>
     <content src="index.html" />
+    <plugin name="SQLitePlugin" value="org.pgsqlite.SQLitePlugin"/>
     <access origin="*" />
 </widget>
